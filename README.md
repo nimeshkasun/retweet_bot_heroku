@@ -21,7 +21,7 @@
 
 
 ### Deploy on heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/icecrac34r/python_retweet_bot_with_heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nimeshkasun/python_retweet_bot_with_heroku)
 
 ## Youtube tutorial
 [Watch how to deploy](https://youtu.be/iByjRmQl0oA)
